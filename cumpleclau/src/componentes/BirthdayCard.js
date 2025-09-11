@@ -9,7 +9,7 @@ const BirthdayCard = () => {
     setShowMessage(true);
     // Redirigir después de 2 segundos
     setTimeout(() => {
-      window.location.href = 'https://nicciamalaga.com/';
+      window.location.href = 'https://eatologygroup.com/niccia';
     }, 2000);
   };
 
